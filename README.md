@@ -2,9 +2,9 @@
 
 
 
-## Table Creation:
+<!-- ## Table Creation: -->
   
-  ** Author Table:  **
+  **Author Table: **
   ```
   CREATE TABLE authors (
     author_id INT PRIMARY KEY,
@@ -12,7 +12,7 @@
   );
   ```
 
-  ** Books Table:  **
+  **Books Table: **
   ```
   CREATE TABLE books (
     book_id INT PRIMARY KEY,
@@ -22,7 +22,7 @@
   );
   ```
   
-  ** Borrower's Table:  **
+  **Borrower's Table: **
   ```
   CREATE TABLE borrowers (
     borrower_id INT PRIMARY KEY,
@@ -30,7 +30,7 @@
   );
   ```
   
-  ** Loans Table:  **
+  **Loans Table: **
   ```
   CREATE TABLE loans (
     loan_id INT PRIMARY KEY,
